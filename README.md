@@ -1,4 +1,4 @@
-# Animate-Search-site
+# Animate-Search-site-example
  
 Пример стилизованной кнопки поиска с анимацией на js
 
