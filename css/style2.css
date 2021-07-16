@@ -1,7 +1,6 @@
 
 /* 
 
-
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +12,6 @@
 html {
     background: #ff3cac;
     background-image: linear-gradient(225deg, #ff3cac 0%, #784ba0 50%, #2b86c5 100%);
-
 }
 
 html, body {
@@ -68,7 +66,6 @@ html, body {
     transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-
 .search-box .search-btn.active {
     right: 5px;
     background-color: #ff3cac;
@@ -96,7 +93,6 @@ html, body {
     font-size: 25px;
     cursor: pointer;
     transition: all 0.5s 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-
 }
 
 .search-box .cancel-btn.active {
