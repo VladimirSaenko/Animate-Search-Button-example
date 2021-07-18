@@ -1,4 +1,5 @@
-"use strict" 
+
+"use strict"; 
 
 const searchBtn = document.querySelector(".search-btn");
 const searchBox = document.querySelector(".search-box");
@@ -11,7 +12,6 @@ searchBtn.onclick = () => {
     searchInput.classList.add("active");
     searchBtn.classList.add("active");
     cancelBtn.classList.add("active");
-
     if(searchInput.value != "") {
         let values = searchInput.value;
         searchData.classList.remove("active");
