@@ -102,7 +102,7 @@ html, body {
 .search-data {
     color: white;
     font-size: 18px;
-    font-weight: bolder;
+    /* font-weight: bolder; */
 }
 
 .search-box .search-data {
