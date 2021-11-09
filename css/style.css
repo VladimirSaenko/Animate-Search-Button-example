@@ -83,7 +83,7 @@ html, body {
     transition: all 0.5s 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-.search-box .cancel-btn{
+.search-box .cancel-btn {
     position: absolute;
     top: 50%;
     right: 20px;
