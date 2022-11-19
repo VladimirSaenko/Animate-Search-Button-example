@@ -119,7 +119,7 @@ html, body {
     html, body {
         background: #db1987;
     }
-    
+
     .search-box input {
         text-overflow: ellipsis;
         overflow: hidden;
