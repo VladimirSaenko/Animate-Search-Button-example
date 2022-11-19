@@ -119,8 +119,13 @@ html, body {
     html, body {
         background: #db1987;
     }
+    
+    .search-box input {
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
 
     .search-box.active {
-        width: 275px;
+        width: 255px;
     }
 }
