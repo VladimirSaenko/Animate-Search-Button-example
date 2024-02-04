@@ -1,6 +1,4 @@
 # Animate-Search-Button-example
- 
-## Пример стилизованной кнопки поиска
 
 ![2232](https://user-images.githubusercontent.com/56477695/118030206-a8384800-b36d-11eb-9e6f-ed6804ae82b6.png)
 
