@@ -1,6 +1,6 @@
 # Animate-Search-Button-example
 
-![2232](https://user-images.githubusercontent.com/56477695/118030206-a8384800-b36d-11eb-9e6f-ed6804ae82b6.png)
+<img width="668" height="340" alt="image" src="https://github.com/user-attachments/assets/b39cbc64-4ceb-4f41-882b-8518b6226c6c" />
 
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/Animate-Search-Button-example/index.html
 
