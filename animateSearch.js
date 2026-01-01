@@ -14,7 +14,7 @@ searchBtn.onclick = () => {
     if(searchInput.value != "") {
         let values = searchInput.value;
         searchData.classList.remove("active");
-        searchData.innerHTML = "Вы набрали " + values;
+        searchData.innerHTML = "Ви надрукували " + values;
         }
         else {
             searchData.innerHTML = "";
